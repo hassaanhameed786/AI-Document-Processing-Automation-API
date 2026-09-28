@@ -497,8 +497,4 @@ This project demonstrates practical experience with:
 
 ---
 
-# Disclaimer
 
-This repository is an educational/portfolio implementation of an AI-assisted customer support workflow.
-
-AI-generated classifications and responses should be reviewed by a human before being used in customer-facing communication.
